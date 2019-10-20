@@ -1,0 +1,1229 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5dac7b675d891b0039105266"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "58f3fbdb62420b4cd6ae079b",
+                "name": "Mem's Coffee & World's Kitchen",
+                "location": {
+                    "crossStreet": "Fakülte bulvarı",
+                    "lat": 39.71638650728351,
+                    "lng": 43.01565150813023,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71638650728351,
+                            "lng": 43.01565150813023
+                        }
+                    ],
+                    "postalCode": "04200",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Fakülte bulvarı",
+                        "04200 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5a720fd4a879213da8ad1f85",
+                "name": "Alacatı Cafe Restaurant",
+                "location": {
+                    "address": "Büyük Ağrı Apart Üstü",
+                    "crossStreet": "Hanibaba Bulvarı",
+                    "lat": 39.71921170923904,
+                    "lng": 43.05123315802992,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71921170923904,
+                            "lng": 43.05123315802992
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Büyük Ağrı Apart Üstü (Hanibaba Bulvarı)",
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "584f0f24349355671d976402",
+                "name": "Teras Cafe & Kadin Spor Salonu",
+                "location": {
+                    "address": "Yavuz mah. Nevzat gungor cad. Saray plaza kat:6 no:38",
+                    "crossStreet": "Cumhuriyet caddesi",
+                    "lat": 39.72136579326731,
+                    "lng": 43.05182954030383,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72136579326731,
+                            "lng": 43.05182954030383
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Yavuz mah. Nevzat gungor cad. Saray plaza kat:6 no:38 (Cumhuriyet caddesi)",
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5b33eae52632ec0039a490a8",
+                "name": "Patron",
+                "location": {
+                    "lat": 39.719034876982064,
+                    "lng": 43.02943581854286,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.719034876982064,
+                            "lng": 43.02943581854286
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5d8d162574ac5a000817dab8",
+                "name": "Bayramefendi Osmanlı Kahvecisi",
+                "location": {
+                    "address": "Yavuz Mahallesi Kağızman Caddesi No:26A Dolunay Market Üstü",
+                    "crossStreet": "Kağızman Caddesi",
+                    "lat": 39.72068,
+                    "lng": 43.050697,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72068,
+                            "lng": 43.050697
+                        }
+                    ],
+                    "postalCode": "44000",
+                    "cc": "TR",
+                    "city": "AĞRI",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Yavuz Mahallesi Kağızman Caddesi No:26A Dolunay Market Üstü (Kağızman Caddesi)",
+                        "44000 AĞRI",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d128941735",
+                        "name": "Kafeterya",
+                        "pluralName": "Kafeteryalar",
+                        "shortName": "Kafeterya",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "55e952e9498eabd1dac703e4",
+                "name": "Kahve Köşesi",
+                "location": {
+                    "lat": 39.72185419909005,
+                    "lng": 43.053082251324604,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72185419909005,
+                            "lng": 43.053082251324604
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "581c8c677c74e158595d6719",
+                "name": "Barbisos Cafe & Restaurant",
+                "location": {
+                    "address": "Yavuz Mah. Cumhuriyet Cad. No:34",
+                    "lat": 39.72045465154794,
+                    "lng": 43.05229707696136,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72045465154794,
+                            "lng": 43.05229707696136
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "neighborhood": "yavuz mahallesi",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Yavuz Mah. Cumhuriyet Cad. No:34",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d143941735",
+                        "name": "Kahvaltı Noktası",
+                        "pluralName": "Kahvaltı Noktaları",
+                        "shortName": "Kahvaltı",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5d8f946814e7a900087409f0",
+                "name": "Osmanlı Kahvesi Ağrı",
+                "location": {
+                    "lat": 39.720669,
+                    "lng": 43.050834,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.720669,
+                            "lng": 43.050834
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d128941735",
+                        "name": "Kafeterya",
+                        "pluralName": "Kafeteryalar",
+                        "shortName": "Kafeterya",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5d961e0d8095ca0007dab446",
+                "name": "Hababam 1957 Cafe",
+                "location": {
+                    "address": "Simit Sarayı Yanı",
+                    "crossStreet": "Hayrettin Atmaca Bulvarı Hastane Cadde",
+                    "lat": 39.715458,
+                    "lng": 43.01217,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.715458,
+                            "lng": 43.01217
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Simit Sarayı Yanı (Hayrettin Atmaca Bulvarı Hastane Cadde)",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5cfd4aad3fcee8002c1bc333",
+                "name": "Anka Künefe",
+                "location": {
+                    "lat": 39.715581,
+                    "lng": 43.011986,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.715581,
+                            "lng": 43.011986
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b79f4",
+                        "name": "Açık Büfe",
+                        "pluralName": "Açık Büfeler",
+                        "shortName": "Açık Büfe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "580a448838fa0d40d108a035",
+                "name": "Adana Unlu Mamulleri Pasta & Cafe",
+                "location": {
+                    "lat": 39.72123898858316,
+                    "lng": 43.05274218114575,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72123898858316,
+                            "lng": 43.05274218114575
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "59d9322fa423620b88b46a28",
+                "name": "İnstagram Cafe&Rest Ağrı",
+                "location": {
+                    "address": "Kağızman Caddesi",
+                    "crossStreet": "Hz.Ömer çarşısı",
+                    "lat": 39.720119570324414,
+                    "lng": 43.05068899066254,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.720119570324414,
+                            "lng": 43.05068899066254
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Kağızman Caddesi (Hz.Ömer çarşısı)",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d128941735",
+                        "name": "Kafeterya",
+                        "pluralName": "Kafeteryalar",
+                        "shortName": "Kafeterya",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5b58cc12fe63bd0039bc8fef",
+                "name": "Yalıkavak Cafe",
+                "location": {
+                    "address": "Fırat mah. 1002 Sok. No.6",
+                    "lat": 39.71641242915619,
+                    "lng": 43.020156687486796,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71641242915619,
+                            "lng": 43.020156687486796
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Merkez",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Fırat mah. 1002 Sok. No.6",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5be1d11aad910e0039f48c91",
+                "name": "MY CAFE & RESTAURANT",
+                "location": {
+                    "address": "Nevzat Güngör Caddesi Eski Simit Sarayı Yeri 2.kat",
+                    "crossStreet": "Nevzat Güngör Caddesi",
+                    "lat": 39.7214114591016,
+                    "lng": 43.051927557720056,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.7214114591016,
+                            "lng": 43.051927557720056
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "AĞRI",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Nevzat Güngör Caddesi Eski Simit Sarayı Yeri 2.kat (Nevzat Güngör Caddesi)",
+                        "04100 AĞRI",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5d1134ee64380300233a3d0f",
+                "name": "Bodrum Cafe",
+                "location": {
+                    "address": "Vali konağı cad Şahin şarküteri östü",
+                    "crossStreet": "Cumhur cad",
+                    "lat": 39.722176,
+                    "lng": 43.052265,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.722176,
+                            "lng": 43.052265
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Vali konağı cad Şahin şarküteri östü (Cumhur cad)",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "56c7310fcd107c4ed6e584d3",
+                "name": "Cafe Laf Lafa",
+                "location": {
+                    "address": "Cumhuriyet Cad.",
+                    "lat": 39.721630725611824,
+                    "lng": 43.05292403903483,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.721630725611824,
+                            "lng": 43.05292403903483
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Cumhuriyet Cad.",
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "592c6c95da2e0026b15dd83c",
+                "name": "Eylül Cafe & Restaurant",
+                "location": {
+                    "address": "Fırat Mah. Erzurum Blv.",
+                    "lat": 39.718920631394795,
+                    "lng": 43.03548023490459,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.718920631394795,
+                            "lng": 43.03548023490459
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Fırat Mah. Erzurum Blv.",
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5542559a498e5156ac27b28f",
+                "name": "Kavurmacı Hikmet Usta",
+                "location": {
+                    "lat": 39.63330640924984,
+                    "lng": 43.397693215314376,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.63330640924984,
+                            "lng": 43.397693215314376
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1cc941735",
+                        "name": "Steakhouse",
+                        "pluralName": "Et Restoranları",
+                        "shortName": "Steakhouse",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5a8bb6804f0e5819e1b1bf69",
+                "name": "Simit Sarayı",
+                "location": {
+                    "address": "fırat mah",
+                    "crossStreet": "atalay cad",
+                    "lat": 39.71561673951512,
+                    "lng": 43.01239848427992,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71561673951512,
+                            "lng": 43.01239848427992
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "ağrı merkez",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "fırat mah (atalay cad)",
+                        "ağrı merkez",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d179941735",
+                        "name": "Simit Dükkanı",
+                        "pluralName": "Simit Dükkanları",
+                        "shortName": "Simitler",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bagels_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5c28cced12c8f0002cab4737",
+                "name": "Cafe Kapris",
+                "location": {
+                    "lat": 39.72094746081928,
+                    "lng": 43.05253667173509,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72094746081928,
+                            "lng": 43.05253667173509
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5b7e790aad1789002c465f91",
+                "name": "Ehl-I Keyf Cafe",
+                "location": {
+                    "lat": 39.71567715150634,
+                    "lng": 43.0130714945563,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71567715150634,
+                            "lng": 43.0130714945563
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5c76df0731839400259f9509",
+                "name": "Yeşilçam Cafe",
+                "location": {
+                    "address": "Fırat Mah. Fakülte Bulvarı",
+                    "lat": 39.71547479733714,
+                    "lng": 43.01284540145188,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71547479733714,
+                            "lng": 43.01284540145188
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "MERKEZ",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Fırat Mah. Fakülte Bulvarı",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5bd359b26fd626002c715013",
+                "name": "Revan",
+                "location": {
+                    "lat": 39.7191001170898,
+                    "lng": 43.02072986529421,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.7191001170898,
+                            "lng": 43.02072986529421
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "56702c27498e8546274f970a",
+                "name": "Mydonos Cafe",
+                "location": {
+                    "address": "Erzurum Blv. 1040 Sok.",
+                    "lat": 39.72116472990323,
+                    "lng": 43.01526000496695,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72116472990323,
+                            "lng": 43.01526000496695
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Erzurum Blv. 1040 Sok.",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5c6bdff59cadd9002c3ea3de",
+                "name": "Califorian Gold",
+                "location": {
+                    "address": "Atalay Caddesi Fırat Mahallesi No 42",
+                    "lat": 39.71539184475085,
+                    "lng": 43.01230564714994,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.71539184475085,
+                            "lng": 43.01230564714994
+                        }
+                    ],
+                    "postalCode": "04400",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Atalay Caddesi Fırat Mahallesi No 42",
+                        "04400 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5c0cf12d12c8f0002c15f433",
+                "name": "Hacı Tavacı",
+                "location": {
+                    "lat": 39.714530529288396,
+                    "lng": 43.01787270559362,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.714530529288396,
+                            "lng": 43.01787270559362
+                        }
+                    ],
+                    "cc": "TR",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f04af1f2fb6e1c99f3db0bb",
+                        "name": "Türk Restoranı",
+                        "pluralName": "Türk Restoranları",
+                        "shortName": "Türk",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/turkish_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "592b0c425455b230d3b72720",
+                "name": "Bahçe Cafe",
+                "location": {
+                    "address": "ciwil arkası",
+                    "crossStreet": "vali konağı",
+                    "lat": 39.72220174121651,
+                    "lng": 43.05165705786074,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.72220174121651,
+                            "lng": 43.05165705786074
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "ciwil arkası (vali konağı)",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "4fd7534ee4b099b47135b938",
+                "name": "Hacıoğlu Kebap Lahmacun ve Pide Dünyası",
+                "location": {
+                    "address": "Dr. Yaşar Eryılmaz Cd. No: 28",
+                    "crossStreet": "Solmazlar Apt. Altı",
+                    "lat": 39.7235208406614,
+                    "lng": 43.05568546024613,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.7235208406614,
+                            "lng": 43.05568546024613
+                        }
+                    ],
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Dr. Yaşar Eryılmaz Cd. No: 28 (Solmazlar Apt. Altı)",
+                        "Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d115941735",
+                        "name": "Orta Doğu Restoranı",
+                        "pluralName": "Orta Doğu Restoranları",
+                        "shortName": "Orta Doğulu",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "5c24efbb5455b2002c7517bb",
+                "name": "Burger King Ağrı",
+                "location": {
+                    "address": "Erzurum Caddesi No 156",
+                    "crossStreet": "Erzurum Caddesi",
+                    "lat": 39.718959190562565,
+                    "lng": 43.0326915899424,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.718959190562565,
+                            "lng": 43.0326915899424
+                        }
+                    ],
+                    "postalCode": "04400",
+                    "cc": "TR",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Erzurum Caddesi No 156 (Erzurum Caddesi)",
+                        "04400 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16e941735",
+                        "name": "Fast Food Restoranı",
+                        "pluralName": "Fast Food Restoranları",
+                        "shortName": "Fast Food",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            },
+            {
+                "id": "57fdd936498e134f850189a2",
+                "name": "Caddeüstü",
+                "location": {
+                    "address": "Abide Mah. Erzurum Blv. No:146",
+                    "lat": 39.718997674325486,
+                    "lng": 43.03331950690183,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 39.718997674325486,
+                            "lng": 43.03331950690183
+                        }
+                    ],
+                    "postalCode": "04100",
+                    "cc": "TR",
+                    "neighborhood": "Abide",
+                    "city": "Ağrı",
+                    "state": "Ağrı",
+                    "country": "Türkiye",
+                    "formattedAddress": [
+                        "Abide Mah. Erzurum Blv. No:146",
+                        "04100 Ağrı",
+                        "Türkiye"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Kafe",
+                        "pluralName": "Kafeler",
+                        "shortName": "Kafe",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "venuePage": {
+                    "id": "362310163"
+                },
+                "referralId": "v-1571584871",
+                "hasPerk": false
+            }
+        ],
+        "confident": false,
+        "geocode": {
+            "what": "",
+            "where": "ağrı",
+            "feature": {
+                "cc": "TR",
+                "name": "Ağrı",
+                "displayName": "Ağrı, Türkiye",
+                "matchedName": "Ağrı, Türkiye",
+                "highlightedName": "<b>Ağrı</b>, Türkiye",
+                "woeType": 7,
+                "slug": "agrı-agrı-turkey",
+                "id": "geonameid:309647",
+                "longId": "72057594038237583",
+                "geometry": {
+                    "center": {
+                        "lat": 39.71944,
+                        "lng": 43.05139
+                    },
+                    "bounds": {
+                        "ne": {
+                            "lat": 39.712124,
+                            "lng": 43.083199
+                        },
+                        "sw": {
+                            "lat": 39.71188,
+                            "lng": 43.07991
+                        }
+                    }
+                }
+            },
+            "parents": []
+        }
+    }
+}

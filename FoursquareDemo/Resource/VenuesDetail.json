@@ -1,0 +1,327 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5dac88d0a87921003947c8f3"
+    },
+    "response": {
+        "venue": {
+            "id": "592c6c95da2e0026b15dd83c",
+            "name": "Eylül Cafe & Restaurant",
+            "contact": {},
+            "location": {
+                "address": "Fırat Mah. Erzurum Blv.",
+                "lat": 39.718920631394795,
+                "lng": 43.03548023490459,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 39.718920631394795,
+                        "lng": 43.03548023490459
+                    }
+                ],
+                "cc": "TR",
+                "city": "Ağrı",
+                "state": "Ağrı",
+                "country": "Türkiye",
+                "formattedAddress": [
+                    "Fırat Mah. Erzurum Blv.",
+                    "Ağrı",
+                    "Türkiye"
+                ]
+            },
+            "canonicalUrl": "https://foursquare.com/v/eyl%C3%BCl-cafe--restaurant/592c6c95da2e0026b15dd83c",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16d941735",
+                    "name": "Kafe",
+                    "pluralName": "Kafeler",
+                    "shortName": "Kafe",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "verified": false,
+            "stats": {
+                "tipCount": 10
+            },
+            "price": {
+                "tier": 2,
+                "message": "Orta",
+                "currency": "₺"
+            },
+            "likes": {
+                "count": 16,
+                "groups": [
+                    {
+                        "type": "others",
+                        "count": 16,
+                        "items": []
+                    }
+                ],
+                "summary": "16 Beğeni"
+            },
+            "dislike": false,
+            "ok": false,
+            "rating": 7.4,
+            "ratingColor": "C5DE35",
+            "ratingSignals": 24,
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+            },
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "photos": {
+                "count": 34,
+                "groups": [
+                    {
+                        "type": "checkin",
+                        "name": "Arkadaşlarının check-in fotoğrafları",
+                        "count": 0,
+                        "items": []
+                    },
+                    {
+                        "type": "venue",
+                        "name": "Mekan fotoğrafları",
+                        "count": 34,
+                        "items": [
+                            {
+                                "id": "5da1cc1509892f00087bcaba",
+                                "createdAt": 1570884629,
+                                "source": {
+                                    "name": "Swarm for Android",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "prefix": "https://fastly.4sqi.net/img/general/",
+                                "suffix": "/379849698_YxDCPjXesEJ9VhvVK4YNk5PX9sX0W_F8kyGynsBa7y4.jpg",
+                                "width": 1900,
+                                "height": 1900,
+                                "user": {
+                                    "id": "379849698",
+                                    "firstName": "🥀Hatice",
+                                    "lastName": "GüL🥀",
+                                    "gender": "female",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/379849698_ZZKUBeuV_JoTh3uV7AXY7J7jjuY8WUABPx_Uh3ato-MEFYDABiKr-j9TAsUuWLZHmbqkZAMUA.jpg"
+                                    }
+                                },
+                                "visibility": "public"
+                            }
+                        ]
+                    }
+                ],
+                "summary": "0 fotoğraf"
+            },
+            "reasons": {
+                "count": 0,
+                "items": []
+            },
+            "hereNow": {
+                "count": 0,
+                "summary": "Burada kimse yok",
+                "groups": []
+            },
+            "createdAt": 1496083605,
+            "tips": {
+                "count": 10,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Bütün tavsiyeler",
+                        "count": 10,
+                        "items": [
+                            {
+                                "id": "5c6be8575bc27d0026ec07eb",
+                                "createdAt": 1550575703,
+                                "text": "Elit mekan",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5c6be8575bc27d0026ec07eb",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "logView": true,
+                                "agreeCount": 0,
+                                "disagreeCount": 0,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "126737096",
+                                    "firstName": "NIZAMETTIN",
+                                    "lastName": "ARDİN Müzik Öğretmenliği",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://fastly.4sqi.net/img/user/",
+                                        "suffix": "/126737096_F6lLbNed_cbMkEWkr-uuX9E93qWRPxzlyyornMMp9HZSlnNhahlr0fAAPQjMeJKK8Vt12QfoI.jpg"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/2rguHq2",
+            "timeZone": "Europe/Istanbul",
+            "listed": {
+                "count": 0,
+                "groups": [
+                    {
+                        "type": "others",
+                        "name": "Diğer kişilerden listeler",
+                        "count": 0,
+                        "items": []
+                    }
+                ]
+            },
+            "popular": {
+                "status": "Açık olması muhtemel",
+                "richStatus": {
+                    "entities": [],
+                    "text": "Açık olması muhtemel"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false,
+                "timeframes": [
+                    {
+                        "days": "Bugün",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "Öğlen–23:00"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Pzt",
+                        "open": [
+                            {
+                                "renderedTime": "19:00–Gece yarısı"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sal",
+                        "open": [
+                            {
+                                "renderedTime": "16:00–23:00"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Çar",
+                        "open": [
+                            {
+                                "renderedTime": "19:00–Gece yarısı"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Per",
+                        "open": [
+                            {
+                                "renderedTime": "17:00–23:00"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Cum",
+                        "open": [
+                            {
+                                "renderedTime": "Öğlen–13:00"
+                            },
+                            {
+                                "renderedTime": "18:00–Gece yarısı"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Cmt",
+                        "open": [
+                            {
+                                "renderedTime": "10:00–15:00"
+                            },
+                            {
+                                "renderedTime": "17:00–Gece yarısı"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "pageUpdates": {
+                "count": 0,
+                "items": []
+            },
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "attributes": {
+                "groups": [
+                    {
+                        "type": "price",
+                        "name": "Fiyat",
+                        "summary": "₺₺",
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Fiyat",
+                                "displayValue": "₺₺",
+                                "priceTier": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "serves",
+                        "name": "Menüler",
+                        "summary": "Akşam yemeği, Öğle yemeği & more",
+                        "count": 8,
+                        "items": [
+                            {
+                                "displayName": "Brunch",
+                                "displayValue": "Brunch"
+                            },
+                            {
+                                "displayName": "Öğle yemeği",
+                                "displayValue": "Öğle yemeği"
+                            },
+                            {
+                                "displayName": "Akşam yemeği",
+                                "displayValue": "Akşam yemeği"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bestPhoto": {
+                "id": "5da1cc1509892f00087bcaba",
+                "createdAt": 1570884629,
+                "source": {
+                    "name": "Swarm for Android",
+                    "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/379849698_YxDCPjXesEJ9VhvVK4YNk5PX9sX0W_F8kyGynsBa7y4.jpg",
+                "width": 1900,
+                "height": 1900,
+                "visibility": "public"
+            }
+        }
+    }
+}
