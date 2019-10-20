@@ -35,7 +35,6 @@ class MainViewController: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         switch segue.identifier {
         case "goPlaceView":
-            print(sender)
             if let destination = segue.destination as? PlacesViewController{
                 if sender as? String == "" {
                     destination.city = "İstanbul"
@@ -49,7 +48,6 @@ class MainViewController: UIViewController {
 }
 
 extension MainViewController: UITextFieldDelegate{
-
     func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
         switch textField {
         case cityNameTxt:

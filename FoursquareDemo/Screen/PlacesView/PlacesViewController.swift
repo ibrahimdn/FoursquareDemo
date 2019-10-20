@@ -34,7 +34,6 @@ class PlacesViewController: UIViewController {
     }
     
     func getVenues(){
-        print(city)
         venuesProvider.request(.getVenues(city: city)) { [weak self] result in
             guard self != nil else { return }
             switch result {
@@ -42,17 +41,18 @@ class PlacesViewController: UIViewController {
                 do {
                     print(try response.mapJSON())
                     let venuesdata = try! JSONDecoder().decode(Venues.self, from: response.data)
+                    
                     //TO DO: Pagination
                     for venues in (venuesdata.response?.venues)!{
                         self?.venues.append(venues)
                     }
                     
                     for venue in self!.venues{
-                            if venue.id == self?.venues.last?.id {
-                                self?.getVenuesDetail(venuesId: venue.id!, isFinishData: true)
-                            }else{
-                                self?.getVenuesDetail(venuesId: venue.id!, isFinishData: false)
-                            }
+                        if venue.id == self?.venues.last?.id {
+                            self?.getVenuesDetail(venuesId: venue.id!, isFinishData: true)
+                        }else{
+                            self?.getVenuesDetail(venuesId: venue.id!, isFinishData: false)
+                        }
                     }
                 } catch let error {
                     self?.showAlertController(error.localizedDescription)
@@ -75,15 +75,11 @@ class PlacesViewController: UIViewController {
                  do {
                     print(try response.mapJSON())
                     let venuesData = try JSONDecoder().decode(VenueDetail.self, from: response.data)
-                    print("**detail",venuesData.response?.venue?.name)
                     self?.venuesDetail.append((venuesData.response?.venue)!)
-                    
                     if self?.venuesDetail.count == self?.venues.count {
                         self?.tableView.reloadData()
                         self?.activity.stopAnimating()
                     }
-                    print("**detail count",self!.venuesDetail.count)
-                    print("**venuesDetail count",self!.venues.count)
                  } catch let error {
                     self?.showAlertController(error.localizedDescription)
                     self?.activity.stopAnimating()
@@ -95,6 +91,16 @@ class PlacesViewController: UIViewController {
              }
          }
      }
+    func configureCell(_ cell: UITableViewCell, at row: Int) -> UITableViewCell {
+        if let temp = cell as? PlaceTableViewCell {
+            temp.foodLbl.text = venues[row].name
+            temp.locationLbl.text = venues[row].location?.city
+            temp.scoreLbl.text = "\(venuesDetail[row].rating ?? 8.4)"
+            return temp
+        }else{
+            return UITableViewCell()
+        }
+    }
 }
 
 extension PlacesViewController: UITableViewDelegate, UITableViewDataSource{
@@ -103,19 +109,12 @@ extension PlacesViewController: UITableViewDelegate, UITableViewDataSource{
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        if let cell = tableView.dequeueReusableCell(withIdentifier: "placeCell", for: indexPath) as? PlaceTableViewCell{
-            cell.foodLbl.text = venues[indexPath.row].name
-            cell.locationLbl.text = venues[indexPath.row].location?.city
-            cell.scoreLbl.text = "\(venuesDetail[indexPath.row].rating!)"
-            return cell
-        }else{
-            return UITableViewCell()
-        }
+        let cell = tableView.dequeueReusableCell(withIdentifier: "placeCell", for: indexPath)
+        return configureCell(cell, at: indexPath.row)
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if let popOverVC = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "InfoViewController") as? InfoViewController {
-            
             popOverVC.latitude = (venues[indexPath.row].location?.lat)!
             popOverVC.longitude = (venues[indexPath.row].location?.lng)!
             popOverVC.imageURL = "\(venuesDetail[indexPath.row].bestPhoto!.bestPhotoPrefix!)300x300\(venuesDetail[indexPath.row].bestPhoto!.suffix!)"

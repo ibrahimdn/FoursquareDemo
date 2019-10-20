@@ -12,7 +12,6 @@ import Kingfisher
 
 class InfoViewController: UIViewController {
 
-    @IBOutlet weak var stackView: UIStackView!
     @IBOutlet weak var mapView: MKMapView!
     @IBOutlet weak var imageView: UIImageView!
     
@@ -21,13 +20,9 @@ class InfoViewController: UIViewController {
     let annotation = MKPointAnnotation()
     var imageURL = String()
    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        DispatchQueue.main.async {
-            self.showAnimate()
-        }
-        
+        self.showAnimate()
         self.view.backgroundColor = UIColor.black.withAlphaComponent(0.8)
         let location = CLLocationCoordinate2D(latitude: latitude, longitude: longitude)
         annotation.coordinate = location
@@ -35,7 +30,6 @@ class InfoViewController: UIViewController {
         let region = MKCoordinateRegion(center: location, span: span)
         mapView.setRegion(region, animated: true)
         mapView.addAnnotation(annotation)
-        print(imageURL)
         imageView.kf.indicatorType = .activity
         imageView.kf.setImage(with: URL(string: imageURL))
       
